@@ -1,0 +1,184 @@
+@media (max-width: 1581px)
+{
+    .box-product
+    {
+        width: 40%;    
+        height: 75%;
+    }
+
+    .section-products
+    {
+        height: 400px;
+    }
+    .envoltura
+    {
+        height: 770px;
+    }
+    .product
+    {
+        top: 30%;
+        height: 60%;
+    }
+    .caracteristicas-individual-container
+    {
+        width: 20%;
+    }
+}
+@media (max-width: 1200px)
+{
+    .main-description
+{
+    width: 60%;
+    font-size: 2em;
+}
+    .envoltura
+    {
+        height: 675px;
+    }
+    .section-products
+    {
+        height: 482px;
+    }
+    .products
+    {
+        height: 100%;
+    }
+    .box-product
+    {
+        width: 40%;    
+        height: 75%;
+    }
+    .product
+    {
+        top: 30%;
+    }
+    .description-product
+    {
+        height: 50%;
+    }
+    .people-general-box
+    {
+        width: 85%;
+    }
+}
+@media (max-width: 1030px)
+{
+    .section-products
+    {
+        height: 386px;
+    }
+    .envoltura
+    {
+        height: 771px;
+    }
+    .products 
+    {
+        
+        height: 70%;
+        background-position: bottom;
+
+    }
+    .product
+    {
+        top: 30%;
+        
+    }
+    .caracteristicas-individual-container
+    {
+        width: 30%;
+    }
+
+    .box-product
+    {    
+        height: 70%;
+    }
+}
+@media (max-width: 803px)
+{
+    .box-product
+    {    
+        height: 75%;
+        width: 45%;
+    }
+}
+@media (max-width: 635px)
+{
+    .main-description
+    {
+    width: 70%;
+    font-size: 2em;
+    }
+    .main
+    {
+        height: 10%;
+    }
+    .envoltura
+    {
+        height: 1050px;
+        /* border: 1px solid red; */
+        /* overflow: hidden; */
+    }
+    .section-products
+    {
+        height: 90%;
+        /* border: 1px solid black; */
+
+    }
+    .products
+    {
+        height: 100%;
+        /* border: 1px solid blue; */
+        background-size: cover;
+    }
+    .product{
+        top: 16%;
+        height: 80%;
+        width: 100%;
+        /* border: 1px solid blue; */
+        flex-wrap: wrap;
+    }
+    .box-product
+    {    
+        height: 35%;
+        width: 50%;
+        margin: 0% 20%;
+    }
+    .caracteristicas
+    {
+        height: 1200px;
+        flex-wrap: wrap;
+    }
+    .menciones-container
+    {
+        height: 1000px;
+    }
+    .meciones-title-container
+    {
+        height: 4%;
+    }
+    .menciones-title
+    {
+        height: 100%;
+    }
+    .caracteristicas-individual-container
+    {
+        height: 20%;
+        width: 40%;
+        margin: 1% 30%;
+    }
+    .people-individual-box
+    {
+        height: 20%;
+        width: 50%;
+        margin: 1% 25%;
+        
+    }
+    .people-general-box
+    {
+        width: 80%;
+        height: 94%;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+}

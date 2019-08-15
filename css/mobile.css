@@ -105,7 +105,7 @@
 {
     .fadeInDown
     {
-        width: 90vw;
+        width: 100vw;
     }
     .nav-options
     {
@@ -147,7 +147,7 @@
     }
     .box-product
     {    
-        height: 50%;
+        height: 60%;
         width: 50%;
         margin: 0% 20%;
         margin-top: 20px;

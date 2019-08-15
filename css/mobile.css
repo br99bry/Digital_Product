@@ -103,6 +103,14 @@
 }
 @media (max-width: 635px)
 {
+    .fadeInDown
+    {
+        width: 90vw;
+    }
+    .nav-options
+    {
+        padding-right: 15px;
+    }
     .main-description
     {
     width: 70%;
@@ -132,16 +140,17 @@
     }
     .product{
         top: 23%;
-        height: 80%;
+        height: 60%;
         width: 100%;
         /* border: 1px solid blue; */
         flex-wrap: wrap;
     }
     .box-product
     {    
-        height: 40%;
+        height: 50%;
         width: 50%;
         margin: 0% 20%;
+        margin-top: 20px;
     }
     .caracteristicas
     {
